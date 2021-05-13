@@ -25,6 +25,7 @@ RUN set -ex; \
         supervisor \
         curl \
         git \
+	alsa-utils \
 	pulseaudio \
         wget \
         g++ \
